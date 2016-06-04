@@ -14,3 +14,4 @@ node_js:
   - "iojs"
 install:
 - npm install
+- npm install --save-dev mochawesome
