@@ -1,10 +1,10 @@
 {
-  "name": "mocha-demos",
+  "name": "mocha-demos-1",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "./demo01 mocha"
+    "test": "./demo01 mocha add.test.js"
   },
   "keywords": [
     "testing",
